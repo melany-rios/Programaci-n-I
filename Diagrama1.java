@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author melan
+ * @author melany
  */
 public class Diagrama1 {
 
